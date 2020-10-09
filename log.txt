@@ -1,0 +1,3 @@
+2 Process: 2000 Size, 0.001476 Time
+1 Process: 2000 Size, 0.001074 Time
+4 Process: 2000 Size, 0.002157 Time
